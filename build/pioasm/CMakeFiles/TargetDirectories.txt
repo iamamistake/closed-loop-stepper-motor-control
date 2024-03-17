@@ -1,0 +1,3 @@
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pioasm/CMakeFiles/edit_cache.dir
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pioasm/CMakeFiles/pioasm.dir

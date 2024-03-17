@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/iamamistake/Desktop/Projects/closed-loop-stepper-motor-control/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
